@@ -1,6 +1,7 @@
 # space_app
 
-A new Flutter application.
+This app is an example repository created from this article.
+https://sergiandreplace.com/planets-flutter-from-design-to-app/
 
 ## Getting Started
 
